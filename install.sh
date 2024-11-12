@@ -1,5 +1,5 @@
-REPO="TooManyAcronymsInComputers/tmaicpm"
-RELEASE_URL="https://github.com/$REPO/releases/latest/download/tmaicpm.tar.gz"
+REPO="TooManyAcronymsInComputers/TMAICPM"
+RELEASE_URL="https://github.com/$REPO/tmaicpm.tar.gz"
 TEMP_DIR="/tmp/tmaicpm"
 INSTALL_DIR="$HOME/TMAICPM"   
 DESKTOP_DIR="$HOME/.local/share/applications"  
