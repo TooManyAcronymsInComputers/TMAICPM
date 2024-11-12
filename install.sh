@@ -1,7 +1,7 @@
 REPO="TooManyAcronymsInComputers/TMAICPM"
 RELEASE_URL="https://github.com/$REPO/tmaicpm.tar.gz"
 TEMP_DIR="/tmp/tmaicpm"
-INSTALL_DIR="$HOME/TMAICPM"   
+INSTALL_DIR="$HOME/tmaicpm"   
 DESKTOP_DIR="$HOME/.local/share/applications"  
 ICON_DIR="$HOME/.local/share/icons"             
 BIN_DEST="$HOME/.local/bin"    
