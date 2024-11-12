@@ -21,3 +21,23 @@ You can either download the `install.sh` script from the [GitHub Releases](https
 ```bash
 git clone https://github.com/TooManyAcronymsInComputers/tmaicpm.git
 cd tmaicpm
+```
+
+
+### Step 2: Running the Script:
+
+### For User-Specific installation:
+
+```
+chmod +x install.sh   # Make the script executable
+./install.sh          # Run the installation script
+```
+### For System-Wide installation:
+
+
+```
+sudo chmod +x install.sh  # Make the script executable
+sudo ./install.sh         # Run the installation script with root privileges
+```
+
+
